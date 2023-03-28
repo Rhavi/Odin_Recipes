@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Odin Links and Images</title>
+  </head>
+
+  <body>
+    <h1>About Page</h1>
+    Recipes to use for the project later
+    <ul>
+      <li>https://www.allrecipes.com/recipe/237983/easy-tamale-casserole/</li>
+      <li>https://www.allrecipes.com/recipe/235997/unstuffed-cabbage-roll/</li>
+      <li>https://www.allrecipes.com/recipe/17303/taco-pie/</li>
+      <li>https://www.allrecipes.com/recipe/89723/easy-shepherds-pie-with-garlic-romano-potatoes/</li>
+    </ul>
